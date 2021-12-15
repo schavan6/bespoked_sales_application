@@ -28,7 +28,7 @@ Option 2 - Via Eclipse-
 
 MySQL should be installed on the system.
 
-Step 1 - In MySQL database instance, create a new database called 'bespoked1';
+Step 1 - In MySQL database instance, create a new database called 'bespoked1'.
 Step 2 - Inside eclipse go to File -> Import -> Existing Maven Project. Give 'Bespoked Spring Boot Project/bespoked-sales' folder as root.
 Step 3 - Locate 'BespokedSalesApplication.java' fole. Right click ->Run As -> Spring Boot App
 
