@@ -38,7 +38,7 @@ Nodejs should be installed on the system.
 
 Step 1 - Go to folder 'Bespoked React App/bespoked.sales.web'. Open command line.
 Step 2 - Run command 'npm install'.
-Step 2 - Run command 'npm start'.
+Step 3 - Run command 'npm start'.
 
 Application will start running at http://localhost:3000/.
 
